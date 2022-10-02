@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+pandas_datareader
+sklearn
+tensorflow
+keras
+Pillow
+tweepy
+regex
+textblob
